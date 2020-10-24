@@ -1,2 +1,3 @@
 # FinancialGraph
-a simple script to generate few stock market information
+A simple script to generate few stock market information
+Please switch the branch to 'main'
